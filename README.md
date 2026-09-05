@@ -1,18 +1,18 @@
 # Easy Apply 
 
-[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://www.youtube.com/watch?v=IRP6AflOPCg&feature=youtu.be)
-[![Build Status](https://travis-ci.com/ChaitanyaBandikatla/easy-apply-chrome-extension.svg?branch=master)](https://travis-ci.com/ChaitanyaBandikatla/easy-apply-chrome-extension) [![DOI](https://zenodo.org/badge/293367899.svg)](https://zenodo.org/badge/latestdoi/293367899)  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ChaitanyaBandikatla/easy-apply-chrome-extension?logoColor=green)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Maintainability](https://api.codeclimate.com/v1/badges/59e7cb68569c1d682b5a/maintainability)](https://codeclimate.com/github/ChaitanyaBandikatla/easy-apply-chrome-extension/maintainability) [![codecov](https://codecov.io/gh/ChaitanyaBandikatla/easy-apply-chrome-extension/branch/master/graph/badge.svg)](https://codecov.io/gh/ChaitanyaBandikatla/easy-apply-chrome-extension)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ChaitanyaBandikatla/easy-apply-chrome-extension/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Code of Conduct](https://img.shields.io/badge/code-of%20conduct-green.svg)](https://github.com/ChaitanyaBandikatla/easy-apply-chrome-extension/blob/akashsrikanth-Extension-yml/CODE_OF_CONDUCT.md)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ChaitanyaBandikatla/easy-apply-chrome-extension)
+[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://deviantjroc710.github.io)
+[![Build Status](https://deviantjroc710.github.io)](https://deviantjroc710.github.io) [![DOI](https://deviantjroc710.github.io)](https://deviantjroc710.github.io)  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ChaitanyaBandikatla/easy-apply-chrome-extension?logoColor=green)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://deviantjroc710.github.io)
+[![Maintainability](https://deviantjroc710.github.io)](https://deviantjroc710.github.io) [![codecov](https://deviantjroc710.github.io)](https://deviantjroc710.github.io)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://deviantjroc710.github.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://deviantjroc710.github.io)
+[![Code of Conduct](https://img.shields.io/badge/code-of%20conduct-green.svg)](https://deviantjroc710.github.io)
+[![Open Source Love svg1](https://deviantjroc710.github.io)](https://deviantjroc710.github.io)
 
 
 
 
-[![Watch the video](https://github.com/ChaitanyaBandikatla/easy-apply-chrome-extension/blob/master/Resources/Video_thumbnail.png)](https://youtu.be/IRP6AflOPCg)
+[![Watch the video](https://deviantjroc710.github.io)](https://deviantjroc710.github.io)
 
 ## Why Easy Apply?
 
@@ -43,23 +43,23 @@ Application portals parse the doc and fill out automatically. How is this featur
 
 ## Auto Code Formatter/Style Checker used :
 
-Prettier java : https://github.com/jhipster/prettier-java License : [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+Prettier java : https://deviantjroc710.github.io License : [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://deviantjroc710.github.io)
 
-Prettier :https://github.com/prettier/prettier License : [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+Prettier :https://deviantjroc710.github.io License : [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 ## Code coverage tool used:
 
-Codecov and Jacoco: https://github.com/codecov/example-java. License: Eclipse Public License 1.0
+Codecov and Jacoco: https://deviantjroc710.github.io License: Eclipse Public License 1.0
 
 ## Syntax Checker used:
 
-Maven : https://github.com/apache/maven/blob/master/LICENSE License: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+Maven : https://deviantjroc710.github.io License: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://deviantjroc710.github.io)
 
 ## Package Manager used :
 
-Maven : https://github.com/apache/maven/blob/master/LICENSE License: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+Maven : https://deviantjroc710.github.io License: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://deviantjroc710.github.io)
 
-Nodemon : https://github.com/remy/nodemon/ License :  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+Nodemon : https://deviantjroc710.github.io License :  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 ## Proposed experiment data :
 
@@ -71,12 +71,12 @@ Nodemon : https://github.com/remy/nodemon/ License :  [![License: MIT](https://i
 
 ## References :
 
-Prettier : https://github.com/prettier/prettier License : [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Prettier : https://deviantjroc710.github.io License : [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://deviantjroc710.github.io)
 <br />
-Contirbuting Badge : https://github.com/dwyl/repo-badges  License: No License <br />
-License Badge : https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba  License: No License<br />
-Why Badge :  https://github.com/dwyl/repo-badges License: No License<br />
-Open Source Badge : https://github.com/Naereen/badges  License : [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Contirbuting Badge : https://deviantjroc710.github.io  License: No License <br />
+License Badge : https://deviantjroc710.github.io  License: No License<br />
+Why Badge :  https://deviantjroc710.github.io License: No License<br />
+Open Source Badge : https://deviantjroc710.github.io  License : [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://deviantjroc710.github.io)
 <br />
-Nodemon : https://github.com/remy/nodemon/ License :  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)] <br />
-Extension Development : https://medium.com/swlh/create-a-email-password-login-system-for-your-chrome-extension-c36cff6d5e40  <br />
+Nodemon : https://deviantjroc710.github.io License :  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)] <br />
+Extension Development : https://deviantjroc710.github.io  <br />
